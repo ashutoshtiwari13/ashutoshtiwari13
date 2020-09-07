@@ -18,7 +18,13 @@ Know more ? Take a look at my [Website].
 
 ---
 ### Languages and Tools:
-
+<img align="left" alt="Terminal" width="40px" src="https://github.com/ashutoshtiwari13/ashutoshtiwari13/blob/master/images/Pytorch.png" />
+<img align="left" alt="Terminal" width="40px" src="https://github.com/ashutoshtiwari13/ashutoshtiwari13/blob/master/images/keras.png" />
+<img align="left" alt="Terminal" width="40px" src="https://github.com/ashutoshtiwari13/ashutoshtiwari13/blob/master/images/openai.png" />
+<img align="left" alt="Terminal" width="40px" src="https://github.com/ashutoshtiwari13/ashutoshtiwari13/blob/master/images/opencv.png" />
+<img align="left" alt="Terminal" width="40px" src="https://github.com/ashutoshtiwari13/ashutoshtiwari13/blob/master/images/pybullet.png" />
+<img align="left" alt="Terminal" width="40px" src="https://github.com/ashutoshtiwari13/ashutoshtiwari13/blob/master/images/RL.png" />
+<img align="left" alt="Terminal" width="40px" src="https://github.com/ashutoshtiwari13/ashutoshtiwari13/blob/master/images/ROS.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
