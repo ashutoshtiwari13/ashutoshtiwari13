@@ -1,14 +1,14 @@
-### Hi there, I'm Ashutosh [website]  👋
+### Hi there, I'm Ashutosh 👋
 
-[![Website](https://img.shields.io/badge/Ashutosh-Website%20-yellowgreen)](https://ashutoshtiwari13.github.io/)
+Know more ? Take a look at my [![Website](https://img.shields.io/badge/Ashutosh-Website%20-yellowgreen)](https://ashutoshtiwari13.github.io/)
 
 ## I'm a Software Research aficionado and a self-taught programmer
 
 - 🌱 I’m currently working as a software developer.
-- 👯 Involved in research groups working on Deep Reinforcement Learning and Robotics research activities
+- 👯 Working with research groups carrying out Deep Reinforcement Learning and Robotics research & Development
 - 🥅 Have experience in working on the "AI/ML" stack  
-- ⚡ Fun fact 1: I love to create pencil Potraits, Illustrations and digital art.
-- ⚡ Fun fact 2: I love to create Remixes/mashups of EDM tracks
+- ⚡ Fun fact 1: I love to create pencil Potraits, Illustrations and digital art. ![Here](https://ashutoshartworld.wordpress.com/)
+- ⚡ Fun fact 2: I love to create Remixes/mashups of EDM tracks ![Here](https://exoduashutosh.hubhopper.com/)
 
 ### Connect with me:
 
@@ -22,5 +22,5 @@
 
 
 [website]: https://ashutoshtiwari13.github.io/
-[linkedin]: www.linkedin.com/in/ashutoshtiwaridev
+[linkedin]: https://www.linkedin.com/in/ashutoshtiwaridev
 [youtube]: https://www.youtube.com/channel/UCNWZpGXT8-EG01Ueler-Oqw
