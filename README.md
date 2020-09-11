@@ -42,6 +42,6 @@ Know more ? Take a look at my [Website].
 
 </details>
 
-[Website]: https://ashutoshtiwari13.github.io/
+[Website]: https://ashutoshtiwari.me
 [linkedin]: https://www.linkedin.com/in/ashutoshtiwaridev
 [youtube]: https://www.youtube.com/channel/UCNWZpGXT8-EG01Ueler-Oqw
