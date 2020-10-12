@@ -42,6 +42,6 @@ Know more about me ? Take a look at my [Website].
 
 </details>
 
-[Website]: https://ashutoshtiwari.me
+[Website]: https://ashutoshtiwari13.github.io
 [linkedin]: https://www.linkedin.com/in/ashutoshtiwaridev
 [youtube]: https://www.youtube.com/channel/UCNWZpGXT8-EG01Ueler-Oqw
