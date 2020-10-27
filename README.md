@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashutosh 👋
 
-Know more about me ? Take a look at my [Website].
+Know more about me ? Take a look at my [WEBSITE].
 
 ## I'm a Software Research aficionado and a self-taught programmer
 
