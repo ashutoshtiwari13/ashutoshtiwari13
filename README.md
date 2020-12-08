@@ -8,7 +8,7 @@ Know more about me ? Take a look at my [WEBSITE].
 - 👯 Working with research groups carrying out Deep Reinforcement Learning and Robotics research & Development
 - 🥅 Have experience working on the AI/ML stack  
 - ⚡ Fun fact 1: I love to create pencil Potraits, Illustrations and digital art. [Here](https://ashutoshartworld.wordpress.com/)
-- ⚡ Fun fact 2: I love to create Remixes/mashups of EDM tracks [Here](https://exoduashutosh.hubhopper.com/)
+- ⚡ Fun fact 2: I love to create Remixes/mashups and new music[Here](https://exoduashutosh.hubhopper.com/)
 
 ### Connect with me:
 
