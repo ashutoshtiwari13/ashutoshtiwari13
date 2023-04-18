@@ -4,9 +4,9 @@ Know more about me ? Take a look at my [WEBSITE] (not updated)
 
 ## I'm a AI/ML Research aficionado and a self-taught programmer
 
-- 🌱 I’m currently a AI research and design graduate student at UC Berkeley. 
-- 👯 Primary areas of research are Applied Machine Learning for Data and management, Natural Language Processing and RL for Robotics.
-- 🥅 Extensive expereince working as a Senior Data Scientist on several industry research and enterprise projects   
+- 🌱 I’m currently an AI research and design graduate student at Universtity of California Berkeley 
+- 👯 Primary areas of research are Applied Machine Learning for Data Management, NLP, AI and RL for Robotics and automation
+- 🥅 Have extensive AI/ML experience working as a senior Data Scientist on several industry research and enterprise projects  
 - ⚡ Fun fact 1: I love to create pencil Potraits, Illustrations and digital art. [Here](https://ashutoshartworld.wordpress.com/)
 - ⚡ Fun fact 2: I love to create Remixes/mashups and new music [Here](https://exoduashutosh.hubhopper.com/)
 
