@@ -1,12 +1,12 @@
 ### Hi there, I'm Ashutosh 👋
 
-Know more about me ? Take a look at my [WEBSITE].
+Know more about me ? Take a look at my [WEBSITE] (not updated)
 
-## I'm a Software Research aficionado and a self-taught programmer
+## I'm a AI/ML Research aficionado and a self-taught programmer
 
-- 🌱 I’m currently working as a software developer.
-- 👯 Working with research groups carrying out Deep Reinforcement Learning and Robotics research & Development
-- 🥅 Have experience working on the AI/ML stack  
+- 🌱 I’m currently a AI research and design graduate student at UC Berkeley. 
+- 👯 Primary areas of research are Applied Machine Learning for Data and management, Natural Language Processing and RL for Robotics.
+- 🥅 Extensive expereince working as a Senior Data Scientist on several industry research and enterprise projects   
 - ⚡ Fun fact 1: I love to create pencil Potraits, Illustrations and digital art. [Here](https://ashutoshartworld.wordpress.com/)
 - ⚡ Fun fact 2: I love to create Remixes/mashups and new music [Here](https://exoduashutosh.hubhopper.com/)
 
