@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashutosh 👋
 
-Know more about me? Take a look at my [WEBSITE] (not updated)
+Know more about me? Take a look at my [WEBSITE](https://ashutoshkumartiwari.webflow.io/)
 
 ## I'm a "software savvy" engineer turned Product Specialist
 
