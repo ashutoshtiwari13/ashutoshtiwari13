@@ -2,7 +2,7 @@
 
 Know more about me? Take a look at my [WEBSITE](https://ashutoshkumartiwari.webflow.io/)
 
-## I'm a "software savvy" engineer turned Product Specialist
+## I'm a "software and Product savvy" Research Scientist
 
 - 🌱 I’m currently a graduate student at University of California Berkeley focusing on AI-ML Decision Intelligence and Business Strategy
 - 👯 My past research experiences have been in Applied Machine Learning for Data Management, NLP, AI, and RL for Robotics. 
