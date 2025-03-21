@@ -5,8 +5,8 @@ Know more about me? Take a look at my [WEBSITE](https://ashutoshkumartiwari.webf
 ## I'm a "software and Product savvy" Research Scientist
 
 - 🌱 I’m currently a graduate student at University of California Berkeley focusing on AI-ML Decision Intelligence and Business Strategy
-- 👯 My past research experiences have been in Applied Machine Learning for Data Management, NLP, AI, and RL for Robotics. 
-- 🥅 Have extensive experience driving product growth and GTM strategies with a dash of entrepreneurial spirit. 
+- 👯 My past research experiences have been in Machine Learning, NLP, AI, and RL for Robotics. 
+- 🥅 Have extensive experience driving Deep-tech/Saas product growth and GTM strategies with a dash of entrepreneurial spirit. 
 - ⚡ Fun fact 1: I love to create pencil Potraits, Illustrations and digital art. [Here](https://ashutoshartworld.wordpress.com/)
 - ⚡ Fun fact 2: I love to create Remixes/mashups and new music [Here](https://exoduashutosh.hubhopper.com/)
 
